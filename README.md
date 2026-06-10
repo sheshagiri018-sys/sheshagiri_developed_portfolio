@@ -26,7 +26,7 @@ This redesigned portfolio will feature:
 * Dynamic visual effects
 * Better storytelling through design
 
-### Goals
+### Goals*
 
 The primary goal of this redesign is to create a portfolio that not only presents my work but also demonstrates my frontend development skills, creativity, and attention to detail.
 
