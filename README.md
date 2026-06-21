@@ -14,7 +14,7 @@ My previous portfolio successfully showcased my projects and skills, but I wante
 * Performance and responsiveness
 * Overall professionalism
 
-### What's New?
+### What's New?💨
 
 This redesigned portfolio will feature:
 
@@ -38,7 +38,7 @@ The portfolio is currently being redesigned and new features are actively being 
 
 Stay tuned for updates and improvements!
 
-### Technologies Planned
+### Technologies Planned⭐
 
 * HTML5
 * CSS3
@@ -46,7 +46,7 @@ Stay tuned for updates and improvements!
 * Advanced Animations
 * Modern UI/UX Principles
 
-### Future Enhancements
+### Future Enhancements🔗
 
 * More interactive project demonstrations
 * Enhanced visual effects
