@@ -18,13 +18,13 @@ My previous portfolio successfully showcased my projects and skills, but I wante
 
 This redesigned portfolio will feature:
 
-* Smooth animations and transitions
-* Interactive user interface components
-* Modern and responsive design
-* Enhanced project showcases
-* Improved navigation experience
-* Dynamic visual effects
-* Better storytelling through design
+* Smooth animations and transitions.
+* Interactive user interface components.
+* Modern and responsive design.
+* Enhanced project showcases.
+* Improved navigation experience.
+* Dynamic visual effects.
+* Better storytelling through design.
 
 ### Goals*
 
@@ -32,7 +32,7 @@ The primary goal of this redesign is to create a portfolio that not only present
 
 ### Current Status
 
-🔨 Work in Progress
+🔨 Work in Progress.
 
 The portfolio is currently being redesigned and new features are actively being developed.
 
