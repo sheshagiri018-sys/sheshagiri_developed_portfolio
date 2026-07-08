@@ -32,7 +32,7 @@ The primary goal of this redesign is to create a portfolio that not only present
 
 ### Current Status
 
-🔨 Work in Progress.
+🔨 Work in Progress.🌠🏆
 
 The portfolio is currently being redesigned and new features are actively being developed.
 
